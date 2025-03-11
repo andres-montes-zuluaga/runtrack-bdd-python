@@ -1,6 +1,6 @@
 import mysql.connector
 
-# Connection to the database using the data in the file
+# Connection to the database
 cnx = mysql.connector.connect(
     host = "localhost",
     user = "root",
