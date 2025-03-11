@@ -1,3 +1,5 @@
+-- mysqldump -u root -p laplateforme > laplateforme_2.sql;
+
 /*
 CREATE TABLE etage (
     -> id INT AUTO_INCREMENT NOT NULL KEY PRIMARY KEY,
